@@ -1,0 +1,31 @@
+{
+  "name": "metrocgi",
+  "version": "1.0.0",
+  "description": "cgidev2 based on metronic template\u001b[\u001b[3~\u001b[3~\u001b[3~",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oksaf/metrocgi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oksaf/metrocgi/issues"
+  },
+  "homepage": "https://github.com/oksaf/metrocgi#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^2.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-watch": "^5.0.1",
+    "postcss-import": "^12.0.0",
+    "postcss-mixins": "^6.2.0",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0"
+  }
+}
